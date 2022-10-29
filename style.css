@@ -1,0 +1,51 @@
+p 
+{
+    font-size: 30px;
+    color: #ff0000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+}
+
+.google_lens{
+    margin-bottom: 800px;
+    font-size: 30px;
+    padding-bottom: 800px;
+}
+
+img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+.MobileNet{
+    letter-spacing: 2px;
+}
+span{
+    letter-spacing: 2px;
+}
+b{
+    color: purple;
+}
+.white{
+    color: white;
+}
+.google_lens{
+    letter-spacing: 2px;
+}
+.first , .second{
+    background-color: white;
+    line-height: 2;
+    border-radius: 10px;
+}
+.test_image_and_result{
+    margin-top: 15px;
+    background-color: gainsboro;
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    margin-bottom: 15px;
+    width: 99%;
+}
+.mini_result{
+    margin-bottom: 100px;
+}
