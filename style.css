@@ -23,6 +23,8 @@ img {
 }
 span{
     letter-spacing: 2px;
+    color: #ff0000;
+    font-size: 17px;
 }
 b{
     color: purple;
@@ -36,6 +38,7 @@ b{
 .first , .second{
     background-color: white;
     line-height: 2;
+    height: 25px;
     border-radius: 10px;
 }
 .test_image_and_result{
@@ -48,4 +51,24 @@ b{
 }
 .mini_result{
     margin-bottom: 100px;
+}
+h4{
+    font-size: 25px;
+    color: white;
+}
+.final_result
+{
+    background-color: pink;
+    border-radius: 10px;
+    margin-top: 15px;
+    box-shadow: 1px 1px 25px grey;
+    margin-bottom: 15px;
+    width: 99%;
+    letter-spacing: 2px;
+    height: 160;
+    font-size: 25px;
+    text-align: center;
+}
+.bye{
+    text-align: left;
 }
